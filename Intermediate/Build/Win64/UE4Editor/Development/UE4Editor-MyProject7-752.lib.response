@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject7-752.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\AGameMode.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7EnemyCharacter.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7EnemyPawn.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7GameMode.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7Pawn.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7Projectile.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\AGameMode.gen.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7.init.gen.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7EnemyCharacter.gen.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7EnemyPawn.gen.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7GameMode.gen.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7Pawn.gen.cpp.obj"
+"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\MyProject7Projectile.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\MyProject7\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\devan\Documents\Unreal Projects\MyProject7\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject7-752.lib"

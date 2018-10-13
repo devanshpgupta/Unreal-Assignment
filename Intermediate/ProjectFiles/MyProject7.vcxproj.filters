@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MyProject7.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A9B7D541-1BE6-47AB-B0E3-6DA6DD046A0F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MyProject7.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MyProject7Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{29C1FB4A-AB07-4801-8614-8F517CA5CB69}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MyProject7">
+			<UniqueIdentifier>{C568C10F-6BA3-4AF0-B3E6-740B4DCCC501}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\MyProject7\AGameMode.cpp">
+			<Filter>Source\MyProject7</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject7\AGameMode.h">
+			<Filter>Source\MyProject7</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\MyProject7\MyProject7.Build.cs">
+			<Filter>Source\MyProject7</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MyProject7\MyProject7.cpp">
+			<Filter>Source\MyProject7</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject7\MyProject7.h">
+			<Filter>Source\MyProject7</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyProject7\MyProject7EnemyCharacter.cpp">
+			<Filter>Source\MyProject7</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject7\MyProject7EnemyCharacter.h">
+			<Filter>Source\MyProject7</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyProject7\MyProject7EnemyPawn.cpp">
+			<Filter>Source\MyProject7</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject7\MyProject7EnemyPawn.h">
+			<Filter>Source\MyProject7</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyProject7\MyProject7Pawn.cpp">
+			<Filter>Source\MyProject7</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject7\MyProject7Pawn.h">
+			<Filter>Source\MyProject7</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MyProject7\MyProject7Projectile.cpp">
+			<Filter>Source\MyProject7</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MyProject7\MyProject7Projectile.h">
+			<Filter>Source\MyProject7</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
